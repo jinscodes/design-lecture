@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import ProfileImg from "../Profile/ProfileImg";
 import AppImg from "./AppImg";
 import Features from "./Features";
